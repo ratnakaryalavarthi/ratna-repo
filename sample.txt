@@ -1,2 +1,0 @@
-this file is created after git sshkey setup done
-this chnage is done after to check the pull step
